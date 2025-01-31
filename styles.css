@@ -29,7 +29,7 @@ body {
     flex-direction: column;
     gap: 20px;
     animation: slideIn 1.5s ease-in-out;
-    background-image:url('ani.gif');/* Light transparent background */
+    background-image:url('cont.avif');/* Light transparent background */
     backdrop-filter: blur(10px); /* Glass effect */
     border-radius: 10px;
     padding: 30px;
